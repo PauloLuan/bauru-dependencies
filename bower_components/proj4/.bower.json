@@ -1,0 +1,13 @@
+{
+  "name": "proj4",
+  "_cacheHeaders": {
+    "ETag": "\"5a606f-2b39e-4bceed5cc0a80\"",
+    "Last-Modified": "Thu, 05 Apr 2012 13:51:22 GMT",
+    "Content-Length": "177054",
+    "Content-Type": "application/zip"
+  },
+  "_release": "e-tag:5a606f-2b",
+  "_source": "http://download.osgeo.org/proj4js/proj4js-1.1.0.zip",
+  "_target": "*",
+  "_originalSource": "http://download.osgeo.org/proj4js/proj4js-1.1.0.zip"
+}

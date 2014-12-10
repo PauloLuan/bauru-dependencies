@@ -1,0 +1,13 @@
+{
+  "name": "bauru-sac",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "openlayers": "http://github.com/openlayers/openlayers/releases/download/release-2.13.1/OpenLayers-2.13.1.zip",
+    "jquery-ui": "http://jqueryui.com/resources/download/jquery-ui-1.11.2.zip",
+    "bootstrap-image-gallery": "https://github.com/blueimp/Bootstrap-Image-Gallery/archive/master.zip",
+    "blueimp": "https://github.com/blueimp/Gallery/archive/master.zip",
+    "proj4": "http://download.osgeo.org/proj4js/proj4js-1.1.0.zip",
+    "bootstrap-material-design": "~0.2.1"
+  }
+}
